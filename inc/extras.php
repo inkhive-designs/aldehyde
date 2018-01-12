@@ -69,19 +69,6 @@ if ( ! function_exists( '_wp_render_title_tag' ) ) :
 	add_filter( 'wp_title', 'aldehyde_wp_title', 10, 2 );
 endif;
 
-if ( ! function_exists( '_wp_render_title_tag' ) ) :
-	/**
-	 * Title shim for sites older than WordPress 4.1.
-	 *
-	 * @link https://make.wordpress.org/core/2014/10/29/title-tags-in-4-1/
-	 * @todo Remove this function when WordPress 4.3 is released.
-	 */
-	function aldehyde_render_title() { ?>
-		<title><?php wp_title( '|', true, 'right' ); ?></title> <?php
-	}
-	add_action( 'wp_head', 'aldehyde_render_title' );
-endif;
-
 /**
  * Sets the authordata global when viewing an author archive.
  *
@@ -94,11 +81,4 @@ endif;
  * @global WP_Query $wp_query WordPress Query object.
  * @return void
  */
-function aldehyde_setup_author() {
-	global $wp_query;
 
-	if ( $wp_query->is_author() && isset( $wp_query->post ) ) {
-		$GLOBALS['authordata'] = get_userdata( $wp_query->post->post_author );
-	}
-}
-add_action( 'wp', 'aldehyde_setup_author' );

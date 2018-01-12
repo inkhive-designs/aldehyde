@@ -3,8 +3,11 @@
  * @package aldehyde, Copyright Rohit Tripathi, rohitink.com
  * This file contains Custom Theme Related Functions.
  */
- 
- 
+//Import Admin Modules
+require get_template_directory() . '/framework/admin-modules/register-styles.php';
+require get_template_directory() . '/framework/admin-modules/register-widgets.php';
+require get_template_directory() . '/framework/admin-modules/theme-setup.php';
+
 class Aldehyde_Menu_With_Description extends Walker_Nav_Menu {
 	function start_el(&$output, $item, $depth = 0, $args = array(), $id = 0) {
 		global $wp_query;
@@ -163,6 +166,22 @@ function aldehyde_get_blog_layout(){
 	endif;	
 }
 add_action('aldehyde_blog_layout', 'aldehyde_get_blog_layout');
+
+
+if (class_exists('WP_Customize_Control')) {
+    class Aldehyde_WP_Customize_Upgrade_Control extends WP_Customize_Control {
+        /**
+         * Render the control's content.
+         */
+        public function render_content() {
+            printf(
+                '<label class="customize-control-upgrade"><span class="customize-control-title">%s</span> %s</label>',
+                $this->label,
+                $this->description
+            );
+        }
+    }
+}
 
 
 /*

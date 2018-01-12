@@ -1,5 +1,12 @@
 ChangeLog
 =========
+Version 3.0
+
+    - switch to new framework.
+    - Skins added.
+    - Navigation error fixed.
+    - Slide Error fixed.
+
 
 Version 2.0.0.1
 

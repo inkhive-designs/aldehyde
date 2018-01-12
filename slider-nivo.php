@@ -43,7 +43,8 @@ if ( get_theme_mod('aldehyde_main_slider_enable' ) && is_home() ) :
 			                <?php if ($title) : ?>
 				                <div class="slide-title"><?php echo $title ?></div>
 				                <div class="slide-desc"><span><?php echo $desc ?></span></div>
-				               <?php endif; ?> 
+				               <?php endif; ?>
+                            </a>
 			            </div>
 		            <?php
 		             endfor; ?>
