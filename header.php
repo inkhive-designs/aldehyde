@@ -20,5 +20,9 @@
     <?php get_template_part('modules/header/masthead'); ?>
 
 	<div class="mega-container" >
+		
+		<?php get_template_part('framework/featured-component/custom-showcase'); ?>
+
+
 
 		<div id="content" class="site-content container">

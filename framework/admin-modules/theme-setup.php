@@ -86,6 +86,9 @@ if ( ! function_exists( 'aldehyde_setup' ) ) :
 
         add_image_size('slider-thumb', 542,341, true );
         add_image_size('pop-thumb',542, 340, true );
+        add_image_size('showcase-thumb-1',1200, 300, true );
+        add_image_size('showcase-thumb-2',300, 300, true );
+        add_image_size('showcase-thumb-4',600, 300, true );
     }
 endif; // aldehyde_setup
 add_action( 'after_setup_theme', 'aldehyde_setup' );

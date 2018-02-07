@@ -26,6 +26,7 @@ require_once get_template_directory().'/framework/customizer/sanitization.php';
 require_once get_template_directory().'/framework/customizer/header.php';
 require_once get_template_directory().'/framework/customizer/layout.php';
 require_once get_template_directory().'/framework/customizer/slider.php';
+require_once get_template_directory().'/framework/customizer/showcase.php';
 require_once get_template_directory().'/framework/customizer/skins.php';
 require_once get_template_directory().'/framework/customizer/social-icons.php';
 require_once get_template_directory().'/framework/customizer/googlefonts.php';

@@ -24,13 +24,21 @@
  */
 function aldehyde_custom_header_setup() {
 	add_theme_support( 'custom-header', apply_filters( 'aldehyde_custom_header_args', array(
-		'default-image'          => get_template_directory_uri().'/assets/images/goose.jpg',
+		'default-image'          => get_template_directory_uri().'/assets/images/goose.jpeg',
 		'default-text-color'     => '#FFF',
 		'height'				 => 800,
 		'flex-height'            => true,
 		'admin-head-callback'    => 'aldehyde_admin_header_style',
 		'admin-preview-callback' => 'aldehyde_admin_header_image',
 	) ) );
+	register_default_headers( array(
+			'default-image'    => array(
+				'url'            => '%s/assets/images/goose.jpeg',
+				'thumbnail_url'    => '%s/assets/images/goose.jpeg',
+				'description'    => __('Default Header Image', 'aldehyde')
+			)
+		)
+	);
 }
 add_action( 'after_setup_theme', 'aldehyde_custom_header_setup' );
 

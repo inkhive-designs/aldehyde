@@ -1,5 +1,14 @@
 ChangeLog
 =========
+Version: 3.0.1
+
+    - Added Custom Logo
+    - Added Social Icons effects
+    - Added Custom Showcase
+    - Social Icons Bug fixed.
+    - Top Menu and Primary Menu bug fixed.
+    - Other minor bug fixed.
+
 Version 3.0
 
     - switch to new framework.

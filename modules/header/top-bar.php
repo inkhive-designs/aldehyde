@@ -5,7 +5,7 @@
         </div>
         <div class="social-icons">
             <?php get_template_part('modules/social/social', 'fa'); ?>
-            <a id="searchicon">
+            <a id="searchicon" class="hvr-buzz">
                 <i class="fa fa-search"></i>
             </a>
         </div>

@@ -15,7 +15,33 @@ $wp_customize->add_section('aldehyde_social_section', array(
 
 ));
 
-$social_networks = array( //Redefinied in Sanitization Function.
+    //social icons style
+    $social_style = array(
+        'none'  => __('Default', 'aldehyde'),
+        'style1'   => __('Style 1', 'aldehyde'),
+        'style2'   => __('Style 2', 'aldehyde'),
+        'hvr-shutter-out-horizontal'   => __('Style 3', 'aldehyde'),
+    );
+    $wp_customize->add_setting(
+        'aldehyde_social_icon_style_set', array(
+        //'sanitize_callback' => 'aldehyde_sanitize_social',
+        'default' => 'none'
+    ));
+
+    $wp_customize->add_control( 'aldehyde_social_icon_style_set', array(
+        'settings' => 'aldehyde_social_icon_style_set',
+        'label' => __('Social Icon Style ','aldehyde'),
+        'description' => __('You can choose your icon style','aldehyde'),
+        'section' => 'aldehyde_social_section',
+        'type' => 'select',
+        'choices' => $social_style,
+    ));
+
+
+
+
+
+    $social_networks = array( //Redefinied in Sanitization Function.
     'none' => __('-','aldehyde'),
     'facebook' => __('Facebook','aldehyde'),
     'twitter' => __('Twitter','aldehyde'),

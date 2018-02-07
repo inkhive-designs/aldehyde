@@ -27,7 +27,7 @@ function aldehyde_customize_register_misc( $wp_customize ) {
             'aldehyde_upgrade',
             array(
                 'label' => __('Free Email Support','aldehyde'),
-                'description' => __('Currently We are Offering Free Email Support with our theme. If you have any queries or require help please <a target="_blank" href="#">Read our FAQs</a> and if your problem is still not solved then contact us. <br><br> If you are looking for more features in your site like Unlimited Colors, More Layouts, Better Pages, More Social Icons, More Skins, More Widgets then please consider upgrading to <a href="#" target="_blank">Aldehyde Plus</a>.','aldehyde'),
+                'description' => __('Currently We are Offering Free Email Support with our theme. If you have any queries or require help please <a target="_blank" href="https://inkhive.com/free-theme-support/">Read our FAQs</a> and if your problem is still not solved then contact us. <br><br> If you are looking for more features in your site like Unlimited Colors, More Layouts, Better Pages, More Social Icons, More Skins, More Widgets then please consider upgrading to <a href="https://inkhive.com/product/aldehyde-plus/" target="_blank">Aldehyde Plus</a>.','aldehyde'),
                 'section' => 'aldehyde_sec_upgrade',
                 'settings' => 'aldehyde_upgrade',
             )
