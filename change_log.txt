@@ -1,5 +1,9 @@
 ChangeLog
 =========
+Version: 3.0.2
+
+    -  Sanitizations Minor bug fixed.
+
 Version: 3.0.1
 
     - Added Custom Logo

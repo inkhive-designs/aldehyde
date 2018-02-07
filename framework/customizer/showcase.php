@@ -44,7 +44,7 @@ function aldehyde_customize_register_showcase( $wp_customize ) {
 
     $wp_customize->add_setting(
         'aldehyde_showcase_priority',
-        array( 'default'=> 10, 'sanitize_callback' => 'sanitize_text_field' )
+        array( 'default'=> 10, 'sanitize_callback' => 'absint' )
     );
 
     $wp_customize->add_control(
@@ -102,7 +102,7 @@ function aldehyde_customize_register_showcase( $wp_customize ) {
 
     $wp_customize->add_setting(
         'aldehyde_showcase_desc1',
-        array( 'sanitize_callback' => 'sanitize_text_field' )
+        array( 'sanitize_callback' => 'sanitize_textarea_field' )
     );
 
     $wp_customize->add_control(
@@ -173,7 +173,7 @@ function aldehyde_customize_register_showcase( $wp_customize ) {
 
     $wp_customize->add_setting(
         'aldehyde_showcase_desc2',
-        array( 'sanitize_callback' => 'sanitize_text_field' )
+        array( 'sanitize_callback' => 'sanitize_textarea_field' )
     );
 
     $wp_customize->add_control(
@@ -247,7 +247,7 @@ function aldehyde_customize_register_showcase( $wp_customize ) {
 
     $wp_customize->add_setting(
         'aldehyde_showcase_desc3',
-        array( 'sanitize_callback' => 'sanitize_text_field' )
+        array( 'sanitize_callback' => 'sanitize_textarea_field' )
     );
 
     $wp_customize->add_control(
@@ -319,7 +319,7 @@ function aldehyde_customize_register_showcase( $wp_customize ) {
 
     $wp_customize->add_setting(
         'aldehyde_showcase_desc4',
-        array( 'sanitize_callback' => 'sanitize_text_field' )
+        array( 'sanitize_callback' => 'sanitize_textarea_field' )
     );
 
     $wp_customize->add_control(

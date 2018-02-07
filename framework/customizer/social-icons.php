@@ -24,9 +24,20 @@ $wp_customize->add_section('aldehyde_social_section', array(
     );
     $wp_customize->add_setting(
         'aldehyde_social_icon_style_set', array(
-        //'sanitize_callback' => 'aldehyde_sanitize_social',
+        'sanitize_callback' => 'aldehyde_sanitize_social_style',
         'default' => 'none'
     ));
+
+
+    function aldehyde_sanitize_social_style( $input ) {
+        if ( in_array($input, array('none','style1','style2','hvr-shutter-out-horizontal') ) )
+            return $input;
+        else
+            return '';
+    }
+    
+    
+    
 
     $wp_customize->add_control( 'aldehyde_social_icon_style_set', array(
         'settings' => 'aldehyde_social_icon_style_set',

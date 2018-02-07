@@ -2,35 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85b0cca0-6ccc-4462-aeb4-49741ffb4936" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/theme-styles/featured-components/showcase.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/theme-styles/section/social-icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/customizer/showcase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/featured-component/custom-showcase.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/css/caribbean-green.css" afterPath="$PROJECT_DIR$/assets/theme-styles/css/caribbean-green.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/css/default.css" afterPath="$PROJECT_DIR$/assets/theme-styles/css/default.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/css/pink.css" afterPath="$PROJECT_DIR$/assets/theme-styles/css/pink.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/css/red.css" afterPath="$PROJECT_DIR$/assets/theme-styles/css/red.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/featured-components/_init_featured.less" afterPath="$PROJECT_DIR$/assets/theme-styles/featured-components/_init_featured.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/prepros-6.config" afterPath="$PROJECT_DIR$/assets/theme-styles/prepros-6.config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/section/_init_sections.less" afterPath="$PROJECT_DIR$/assets/theme-styles/section/_init_sections.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/section/header.less" afterPath="$PROJECT_DIR$/assets/theme-styles/section/header.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/section/jumbosearch.less" afterPath="$PROJECT_DIR$/assets/theme-styles/section/jumbosearch.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/section/navigation.less" afterPath="$PROJECT_DIR$/assets/theme-styles/section/navigation.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/skins/caribbean-green.less" afterPath="$PROJECT_DIR$/assets/theme-styles/skins/caribbean-green.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/skins/pink.less" afterPath="$PROJECT_DIR$/assets/theme-styles/skins/pink.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/skins/red.less" afterPath="$PROJECT_DIR$/assets/theme-styles/skins/red.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/variables.less" afterPath="$PROJECT_DIR$/assets/theme-styles/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/theme-styles/section/social-icons.less" afterPath="$PROJECT_DIR$/assets/theme-styles/section/social-icons.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/change_log.txt" afterPath="$PROJECT_DIR$/change_log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framework/admin-modules/theme-setup.php" afterPath="$PROJECT_DIR$/framework/admin-modules/theme-setup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framework/customizer/init.php" afterPath="$PROJECT_DIR$/framework/customizer/init.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framework/customizer/misc-scripts.php" afterPath="$PROJECT_DIR$/framework/customizer/misc-scripts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framework/customizer/showcase.php" afterPath="$PROJECT_DIR$/framework/customizer/showcase.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framework/customizer/social-icons.php" afterPath="$PROJECT_DIR$/framework/customizer/social-icons.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framework/theme-functions.php" afterPath="$PROJECT_DIR$/framework/theme-functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/custom-header.php" afterPath="$PROJECT_DIR$/inc/custom-header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/header/top-bar.php" afterPath="$PROJECT_DIR$/modules/header/top-bar.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/social/social-fa.php" afterPath="$PROJECT_DIR$/modules/social/social-fa.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
@@ -52,21 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="change_log.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/change_log.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="153">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -127,7 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/theme-styles/blog-layouts/grid-layouts.less" />
         <option value="$PROJECT_DIR$/assets/theme-styles/section/secondary.less" />
         <option value="$PROJECT_DIR$/assets/theme-styles/section/footer.less" />
         <option value="$PROJECT_DIR$/framework/customizer/header.php" />
@@ -156,26 +125,27 @@
         <option value="$PROJECT_DIR$/assets/theme-styles/section/__jumbo.less" />
         <option value="$PROJECT_DIR$/assets/theme-styles/section/__social.less" />
         <option value="$PROJECT_DIR$/assets/theme-styles/section/__header.less" />
-        <option value="$PROJECT_DIR$/assets/theme-styles/section/social-icons.less" />
         <option value="$PROJECT_DIR$/assets/theme-styles/section/_init_sections.less" />
-        <option value="$PROJECT_DIR$/modules/social/social-fa.php" />
         <option value="$PROJECT_DIR$/modules/header/top-bar.php" />
         <option value="$PROJECT_DIR$/assets/theme-styles/section/header.less" />
         <option value="$PROJECT_DIR$/assets/theme-styles/section/jumbosearch.less" />
         <option value="$PROJECT_DIR$/assets/theme-styles/section/navigation.less" />
-        <option value="$PROJECT_DIR$/framework/customizer/social-icons.php" />
         <option value="$PROJECT_DIR$/framework/featured-component/custom-showcase.php" />
-        <option value="$PROJECT_DIR$/framework/customizer/showcase.php" />
         <option value="$PROJECT_DIR$/framework/admin-modules/theme-setup.php" />
         <option value="$PROJECT_DIR$/assets/theme-styles/featured-components/showcase.less" />
         <option value="$PROJECT_DIR$/assets/theme-styles/featured-components/_init_featured.less" />
-        <option value="$PROJECT_DIR$/assets/theme-styles/variables.less" />
         <option value="$PROJECT_DIR$/framework/customizer/featured-hposts.php" />
         <option value="$PROJECT_DIR$/framework/theme-functions.php" />
         <option value="$PROJECT_DIR$/featured-hposts.php" />
         <option value="$PROJECT_DIR$/framework/featured-component/featured-hposts.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/framework/customizer/init.php" />
+        <option value="$PROJECT_DIR$/framework/customizer/googlefonts.php" />
+        <option value="$PROJECT_DIR$/framework/customizer/showcase.php" />
+        <option value="$PROJECT_DIR$/modules/social/social-fa.php" />
+        <option value="$PROJECT_DIR$/framework/customizer/social-icons.php" />
+        <option value="$PROJECT_DIR$/assets/theme-styles/variables.less" />
+        <option value="$PROJECT_DIR$/assets/theme-styles/section/social-icons.less" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/change_log.txt" />
       </list>
@@ -220,6 +190,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -240,7 +211,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,6 +255,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -309,11 +285,12 @@
       <option name="presentableId" value="Default" />
       <updated>1515734408458</updated>
       <workItem from="1515734410233" duration="20227000" />
+      <workItem from="1517986729407" duration="4470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25969000" />
+    <option name="totallyTimeSpent" value="30566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -323,7 +300,6 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -335,6 +311,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -372,41 +349,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/framework/customizer/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/customizer/layout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/customizer/skins.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/framework/layouts/content-grid.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -446,7 +388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
           <caret line="298" column="31" selection-start-line="298" selection-start-column="31" selection-end-line="298" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -472,14 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/framework/customizer/misc-scripts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="29" column="209" selection-start-line="29" selection-start-column="209" selection-end-line="29" selection-end-column="209" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/goose.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -489,7 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="36" column="65" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -517,59 +449,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/theme-styles/section/__menu.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="218" column="1" selection-start-line="218" selection-start-column="1" selection-end-line="218" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/theme-styles/section/__jumbo.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/theme-styles/section/__menu.less" />
+    <entry file="file://$PROJECT_DIR$/assets/theme-styles/section/__jumbo.less" />
     <entry file="file://$PROJECT_DIR$/modules/header/masthead.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/theme-styles/section/__social.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/theme-styles/section/_init_sections.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/theme-styles/section/social-icons.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="171" column="1" selection-start-line="171" selection-start-column="1" selection-end-line="171" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/theme-styles/section/__social.less" />
     <entry file="file://$PROJECT_DIR$/assets/theme-styles/section/header.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="65">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -577,7 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="519">
           <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -589,45 +481,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/framework/customizer/social-icons.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/social/social-fa.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding>
-            <element signature="e#6#57#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/header/top-bar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/theme-styles/section/__header.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/theme-styles/section/__header.less" />
     <entry file="file://$PROJECT_DIR$/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -635,9 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="519">
           <caret line="277" column="0" selection-start-line="277" selection-start-column="0" selection-end-line="277" selection-end-column="0" />
-          <folding>
-            <element signature="e#5542#5586#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -645,6 +507,159 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/featured-component/custom-showcase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <marker date="1517986540752" expanded="true" signature="179:392" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="207:392" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="248:392" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="291:392" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="2794:3557" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="2846:3534" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="2901:2985" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="3039:3127" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="3182:3509" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="3655:4418" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="3707:4395" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="3762:3846" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="3900:3988" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="4043:4370" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="4516:5279" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="4568:5256" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="4623:4707" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="4761:4848" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="4904:5231" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="5377:6140" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="5429:6117" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="5484:5568" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="5622:5710" ph="..." />
+            <marker date="1517986540752" expanded="true" signature="5765:6092" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/admin-modules/theme-setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/layouts/content-aldehyde.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="126" selection-start-line="21" selection-start-column="126" selection-end-line="21" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/admin-modules/register-widgets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/featured-component/featured-hposts.php" />
+    <entry file="file://$PROJECT_DIR$/framework/customizer/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/customizer/featured-hposts.php" />
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/featured-hposts.php" />
+    <entry file="file://$PROJECT_DIR$/framework/theme-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="185" column="23" selection-start-line="185" selection-start-column="23" selection-end-line="185" selection-end-column="23" />
+          <folding>
+            <element signature="e#6938#7709#0#PHP" expanded="false" />
+            <marker date="1517986540756" expanded="true" signature="6299:6342" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
+            <marker date="1517986540756" expanded="true" signature="6484:6527" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
+            <marker date="1517986540756" expanded="true" signature="6669:6712" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
+            <marker date="1517986540756" expanded="true" signature="6854:6897" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/customizer/misc-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/customizer/googlefonts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__ello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/customizer/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_hello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/customizer/social-icons.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/social/social-fa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#57#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/theme-styles/section/social-icons.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -657,139 +672,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/framework/featured-component/custom-showcase.php">
+    <entry file="file://$PROJECT_DIR$/assets/theme-styles/section/_init_sections.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <marker date="1517984369738" expanded="true" signature="179:392" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="207:392" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="248:392" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="291:392" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="2794:3557" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="2846:3534" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="2901:2985" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="3039:3127" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="3182:3509" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="3655:4418" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="3707:4395" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="3762:3846" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="3900:3988" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="4043:4370" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="4516:5279" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="4568:5256" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="4623:4707" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="4761:4848" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="4904:5231" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="5377:6140" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="5429:6117" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="5484:5568" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="5622:5710" ph="..." />
-            <marker date="1517984369738" expanded="true" signature="5765:6092" ph="..." />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/framework/admin-modules/theme-setup.php">
+    <entry file="file://$PROJECT_DIR$/framework/customizer/sanitization.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
-          <folding>
-            <element signature="e#91#160#0#PHP" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/framework/customizer/showcase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+        <state relative-caret-position="517">
+          <caret line="350" column="75" selection-start-line="350" selection-start-column="75" selection-end-line="350" selection-end-column="75" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/layouts/content-aldehyde.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="126" selection-start-line="21" selection-start-column="126" selection-end-line="21" selection-end-column="126" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/admin-modules/register-widgets.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/featured-component/featured-hposts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/customizer/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/customizer/featured-hposts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/featured-hposts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/theme-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="185" column="23" selection-start-line="185" selection-start-column="23" selection-end-line="185" selection-end-column="23" />
-          <folding>
-            <element signature="e#6938#7709#0#PHP" expanded="false" />
-            <marker date="1517985650833" expanded="true" signature="6299:6342" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
-            <marker date="1517985650833" expanded="true" signature="6484:6527" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
-            <marker date="1517985650833" expanded="true" signature="6669:6712" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
-            <marker date="1517985650833" expanded="true" signature="6854:6897" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="14" />
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/change_log.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
           <folding />
         </state>
       </provider>
