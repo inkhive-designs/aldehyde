@@ -29,7 +29,8 @@ function aldehyde_customize_register_showcase( $wp_customize ) {
 
     $wp_customize->add_setting(
         'aldehyde_showcase_enable',
-        array( 'sanitize_callback' => 'aldehyde_sanitize_checkbox' )
+        array( 'default' => 'false',
+                'sanitize_callback' => 'aldehyde_sanitize_checkbox' )
     );
 
     $wp_customize->add_control(

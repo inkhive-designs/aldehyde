@@ -5,7 +5,7 @@
 
 //Define all Variables.
 ?>
-<?php if(get_theme_mod('aldehyde_showcase_enable',true)): ?>
+<?php if(get_theme_mod('aldehyde_showcase_enable')): ?>
 <div id="showcase" class="featured-area">
     <div class="container">
         <div class="showcase-container">
