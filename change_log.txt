@@ -1,5 +1,9 @@
 ChangeLog
 =========
+Version: 3.0.4
+
+    - WooCommerce Added and minor bug fixed.
+
 Version: 3.0.3
 
     - Showcase minor bug fixed.
