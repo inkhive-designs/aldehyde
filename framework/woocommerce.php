@@ -129,8 +129,10 @@ if (!function_exists('loop_columns')) {
 		return $i; // 3 products per row
 	}
 }
-
-add_filter( 'loop_shop_per_page', create_function( '$cols', 'return '.get_theme_mod("aldehyde_woo_qty", 12).';' ), 20 );
+function aldehyde_wooqty() {
+    return get_theme_mod("aldehyde_woo_qty", 12);
+}
+add_filter( 'loop_shop_per_page', 'aldehyde_wooqty', 20 );
 
 // Ensure cart contents update when products are added to the cart via AJAX (place the following in functions.php)
 add_filter( 'woocommerce_add_to_cart_fragments', 'aldehyde_header_add_to_cart_fragment' );

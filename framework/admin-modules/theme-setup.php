@@ -40,6 +40,9 @@ if ( ! function_exists( 'aldehyde_setup' ) ) :
         // Add default posts and comments RSS feed links to head.
         add_theme_support( 'automatic-feed-links' );
 
+        //Guttenberg fullscreen content
+        add_theme_support( 'align-wide' );
+
         /*
          * Let WordPress manage the document title.
          * By adding theme support, we declare that this theme does not use a

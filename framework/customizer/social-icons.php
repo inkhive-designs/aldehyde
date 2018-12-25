@@ -59,7 +59,7 @@ $wp_customize->add_section('aldehyde_social_section', array(
     'google-plus' => __('Google Plus','aldehyde'),
     'instagram' => __('Instagram','aldehyde'),
     'rss' => __('RSS Feeds','aldehyde'),
-    'vine' => __('Vine','aldehyde'),
+    'pinterest' => __('Pinterest','aldehyde'),
     'vimeo-square' => __('Vimeo','aldehyde'),
     'youtube' => __('Youtube','aldehyde'),
     'flickr' => __('Flickr','aldehyde'),
@@ -107,7 +107,7 @@ function aldehyde_sanitize_social( $input ) {
         'google-plus',
         'instagram',
         'rss',
-        'vine',
+        'pinterest',
         'vimeo-square',
         'youtube',
         'flickr'

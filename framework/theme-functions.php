@@ -183,7 +183,7 @@ if (class_exists('WP_Customize_Control')) {
     }
 }
 
-//add custom iamge size
+//add custom image size
 // retrieves the attachment ID from the file URL
 function aldehyde_get_image_id1($img1) {
 	global $wpdb;

@@ -1,5 +1,13 @@
 ChangeLog
 =========
+Version: 3.0.6
+
+    - Minor Bug Fixes
+    - Support for Vine Social icon removed
+    - Support for Pinterest Social icon added
+    - Slider Title Description css Issue Fixed
+    - Gutenberg Ready
+
 Version: 3.0.5
 
     - New Screenshot added.
